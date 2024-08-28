@@ -16,7 +16,7 @@ import com.google.gson.JsonParser;
 public class BajajTestApplication {
 	public static void main(String[] args) {
 	if (args.length != 2) {
-        System.out.println("Usage: java -jar jsonprocessor.jar <PRN Number> <path to json file>");
+        System.out.println("Usage: java -jar jsonprocessor.jar <2403412200094> <path to json file>");
         return;
     }
 
